@@ -475,3 +475,39 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+Front/ProEventos-App/dist
+Front/ProEventos-App/tmp
+Front/ProEventos-App/out-tsc
+Front/ProEventos-App/bazel-out
+
+# Node
+Front/ProEventos-App/node_modules
+Front/ProEventos-App/npm-debug.log
+Front/ProEventos-App/yarn-error.log
+
+# IDEs and editors
+Front/ProEventos-App/.idea/
+Front/ProEventos-App/.project
+Front/ProEventos-App/.classpath
+Front/ProEventos-App/.c9/
+*.launch
+Front/ProEventos-App/.settings/
+*.sublime-workspace
+
+
+# Miscellaneous
+Front/ProEventos-App/.angular/cache
+Front/ProEventos-App/.sass-cache/
+Front/ProEventos-App/connect.lock
+Front/ProEventos-App/coverage
+Front/ProEventos-App/libpeerconnection.log
+Front/ProEventos-App/testem.log
+Front/ProEventos-App/typings
+
+# System files
+Front/ProEventos-App/.DS_Store
+Front/ProEventos-App/Thumbs.db
