@@ -511,3 +511,8 @@ Front/ProEventos-App/typings
 # System files
 Front/ProEventos-App/.DS_Store
 Front/ProEventos-App/Thumbs.db
+
+#Excluindo DB
+*.db
+*.db-shm
+*.db-wal
